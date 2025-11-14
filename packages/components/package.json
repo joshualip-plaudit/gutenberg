@@ -30,6 +30,12 @@
 			"import": "./build-module/index.js",
 			"require": "./build/index.js"
 		},
+		"./context": {
+			"types": "./build-types/context/wordpress-component.d.ts"
+		},
+		"./build-types/context": {
+			"types": "./build-types/context/wordpress-component.d.ts"
+		},
 		"./README.md": "./README.md",
 		"./CONTRIBUTING.md": "./CONTRIBUTING.md",
 		"./package.json": "./package.json",

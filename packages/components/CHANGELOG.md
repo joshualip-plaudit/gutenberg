@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Bug Fixes
+
+-   Re-exporting the `WordPressComponent` types
+
 ## 30.8.0 (2025-11-12)
 
 ### Bug Fixes
